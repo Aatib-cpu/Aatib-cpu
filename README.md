@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Aatib
-- 👀 I’m interested in RTL Design Engineer
-- 🌱 I’m currently learning Verilog
-- 💞️ I’m looking to collaborate VLSI architecture
+- 👀 I’m interested in Design Verigication, RTL Design Engineer, Physical Design, VLSI Architecture, etc.
+- 🌱 I’m currently learning SystemVerilog, Verilog, Python, C++, etc.
+- 💞️ I’m looking to collaborate AI-ML Architectures, System Design, Verification - testing, etc
 - 📫 My Email Id: aatib123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mr Aatib
+<!--- - ⚡ Fun fact: ...
 
 <!---
 Aatib-cpu/Aatib-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
