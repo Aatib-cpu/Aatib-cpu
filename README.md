@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aatib
 - 👀 I’m interested in Design Verification, RTL Design Engineer, Physical Design, VLSI Architecture, etc.
-- 🌱 I’m currently learning SystemVerilog, Verilog, Python, C++, etc.
+- 🌱 I’m currently learning SystemVerilog, Verilog, Python, C++, Html, Css, Javascript, Lua etc.
 - 💞️ I’m looking to collaborate AI-ML Architectures, System Design, Verification - testing, etc
 - 📫 My Email Id: aatib123@gmail.com
 - 😄 Pronouns: Mr Aatib
