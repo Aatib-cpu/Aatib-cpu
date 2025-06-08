@@ -67,7 +67,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 **Communication Protocols**: UART, I2C, SPI, GPIO, AMBA AXI
 
-**Developer Tools**: Xilinx Vivado-Vitis, VIMV, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS
+**Developer Tools**: Xilinx Vivado-Vitis, VIM, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS
 
 **Hands-on Experience**: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA
 
