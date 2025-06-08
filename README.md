@@ -1,6 +1,6 @@
 <!-- This is a comment -->
 <!--h1 align="center">Hi 👋, I'm Aatib Mohammad</h1-->
-<img src="https://github.com/Mr-Kaushal-22/Mr-Kaushal-22/blob/main/blob/front.jpeg" alt="logo" style="width: 100%;">
+<img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backiee-286745-landscape.jpg" alt="logo" style="width: 100%;">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aatib-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aatib-cpu" /> </p>
 
