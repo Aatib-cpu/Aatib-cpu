@@ -18,7 +18,7 @@
 
 🌱 Learning: **Computer Vision, Low Power Design, SoC integration**
 
-💬 Ask me about: **Verilog, SystemVerilog, VLSI Archtecture,**
+💬 Ask me about: **Verilog, SystemVerilog, VLSI Archtecture, AI-ML Algorithm**
 
 ⚡ Fun fact: **Driven by curiosity and a knack for problem-solving, I thrive on mastering new technologies and tackling challenging engineering puzzles.**
 </div>
