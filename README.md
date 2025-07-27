@@ -30,23 +30,16 @@
   
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
 **Design Intern** (September 2024 - March 2025) | Surat, Gujarat
-
 Designed and integrated custom operators for CNN algorithms, generalizing the architecture to support diverse ONNX models through extensive testing and debugging. 
-
 Optimized modular components for specific application needs, ensuring scalability and flexibility. 
-
 Validated architecture on datasets like MNIST, CIFAR, ImageNet, and COCO.
 
 ### [CSIR-CERRI](https://www.galaxeye.space/)
 **Dissertation** (Feb 2024 - May 2024) | BITS Pilani, Pilani, Rajsthan
-
 Designed a RISC V (RV-32I ISA) processor for error prone application while handing all Hazards.
 All 37 instruction of R,I,J,S,B,U Format are implemented. All cases of ”Data Dependency” is checked and Forwarding unit is optimized to address all ”Data Hazard”.
-
 Designed a Branch Predictor and Bubble insertion technique to address ”Control Hazard”
-
 Utilized Xilinx Vivado 2023.1 for Zynq 7000 SoC Embedded Dev Board for frame acquisition and preprocessing.
-
 Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 </div>
@@ -58,7 +51,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <h1 align="center">🔧 Technical Skills:</h1>
 <br/>
 <div align="center">
-  
+    
 **Programming Languages**: C/C++, QT, Javascript, Python, Lua, Java
 
 **Hardware Description/Verification Languages**: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017)
