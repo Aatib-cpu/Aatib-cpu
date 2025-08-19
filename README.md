@@ -1,18 +1,24 @@
-<!-- This is a comment -->
-<!--h1 align="center">Hi 👋, I'm Aatib Mohammad</h1-->
+<!-- top image -->
 <img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backiee-286745-landscape.jpg" alt="logo" style="width: 100%;">
 
+<!-- profile count -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aatib-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aatib-cpu" /> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Aatib!;+Welcome+to+my+profile;" />
+<!-- hi animation -->
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Aatib+😊;+Welcome+to+my+profile+😄;" />
 </h1>
 
+<!--Night Owl image-->
+<!-- <div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div> -->
+
+<!--<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt3bThjMWswaTljbDcwbW95bmIybWtvNTYzNzlqMnlkaTN6YWJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif" alt="Cool GIF" width="200"/> -->
+
+
 <h1 align="center"> 💫 About Me:</h1>
-<br/>
 <div align="center">
-  
-👋 Hi, I'm Aatib Mohammad — a passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. I've also published work on anti-missile systems and ML for medical data — always pushing the edge of innovation. 🚀🔧📡
+A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. I've also published work on anti-missile systems and ML for medical data — always pushing the edge of innovation. 🚀🔧📡
 
 🔭 Currently working on: **VLSI Archtecture for AI-ML accelarators and Computer Vision Application**
 
@@ -91,7 +97,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
  <hr/>
  
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <!--<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>--> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <hr/>
@@ -123,12 +129,22 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <h1 align="center"> 🔝 Top Contributed Repo </h1>
 <br/>
 <div align="center">
-  
+
 ![](https://github-contributor-stats.vercel.app/api?username=aatib-cpu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <br/><br/>
 
 </div>
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatib-cpu&range=year&bg_color=1a1b26&&color=00ffff&line=00ffff&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 <hr/>
+
+<!--snake animation-->
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/snake.svg" alt="Snake animation" />-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!;+Please+Visit+Again+👋;" />
