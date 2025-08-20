@@ -54,9 +54,17 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
  <hr/>
 
-<h1 align="center">🔧 Technical Skills:</h1>
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<h1 align="left">🔧 Technical Skills:</h1>
 <br/>
-<div align="center">
+<div align="left">
     
 **Programming Languages**: C/C++, QT, Javascript, Python, Lua, Java
 
