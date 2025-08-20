@@ -15,7 +15,7 @@
 
 <!--<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt3bThjMWswaTljbDcwbW95bmIybWtvNTYzNzlqMnlkaTN6YWJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUOSneOOtImPurKwph/giphy.gif" alt="Cool GIF" width="200"/> -->
 
-
+<!-- about me -->
 <h1 align="center"> 💫 About Me:</h1>
 <div align="center">
 A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. I've also published work on anti-missile systems and ML for medical data — always pushing the edge of innovation. 🚀🔧📡
@@ -28,10 +28,13 @@ A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL
 
 ⚡ Fun fact: **Driven by curiosity and a knack for problem-solving, I thrive on mastering new technologies and tackling challenging engineering puzzles.**
 </div>
-<br/><br/>
- <hr/>
-<h1 align="center">🛠️ Experience:</h1>
+
 <br/>
+ <hr/>
+ 
+ <!-- experiance -->
+<h1 align="center">🛠️ Experience:</h1>
+
 <div align="center">
   
 ### [Vicharak Computers PVT LTD](https://vicharak.in/)
@@ -50,7 +53,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 </div>
 
-<br/><br/>
+<br/>
 
  <hr/>
 
@@ -83,8 +86,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 **Others**: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator
 </div>
 
-<br/><br/>
-
+<br/>
  <hr/>
 
  <!--social-->       
@@ -101,7 +103,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
-<br/><br/>
+<br/>
  <!-- 
  <hr/>
  
@@ -140,7 +142,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=aatib-cpu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<br/><br/>
+<br/>
 
 </div>
 
@@ -150,11 +152,11 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatib-cpu&range=year&bg_color=1a1b26&&color=00ffff&line=00ffff&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 <hr/>
-
+<br/>
 <!--snake animation-->
 <img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
 <!--<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/snake.svg" alt="Snake animation" />-->
-
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!;+Please+Visit+Again+👋;" />
 </h1>
