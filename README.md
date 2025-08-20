@@ -55,17 +55,17 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
  <hr/>
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+
+<h1 align="center">🔧 Languages and Tools Section:</h1>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-<h1 align="left">🔧 Technical Skills:</h1>
-<br/>
-<div align="left">
-    
+<div align="center">
+  
 **Programming Languages**: C/C++, QT, Javascript, Python, Lua, Java
 
 **Hardware Description/Verification Languages**: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017)
@@ -80,8 +80,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 **Operatng Systems**: Windows 11, Linux Ubuntu 22.04.03 LTS, Linux Mint Cinnamon 6.4.8, Arch linux manjaro
 
-**Others**: Obsidian, Excalidraw, Adobe Premiere Pro, Adobe Illustrator
-
+**Others**: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator
 </div>
 
 <br/><br/>
