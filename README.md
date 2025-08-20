@@ -60,7 +60,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" width="700" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
   </div>
 <br/><br/>
