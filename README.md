@@ -153,10 +153,13 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 </div>
 <hr/>
 <br/>
+
 <!--snake animation-->
-<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
-<!--<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/github-snake-dark.svg" alt="Snake animation" />
 <br/>
+<!--<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/ocean.gif" alt="ocean" />-->
+<br/>
+<!--thankyou figlet-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!;+Please+Visit+Again+👋;" />
 </h1>
