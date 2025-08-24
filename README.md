@@ -1,6 +1,10 @@
 <!-- top image -->
-<img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backiee-286745-landscape.jpg" alt="logo" style="width: 100%;">
-
+<!-- <img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backiee-286745-landscape.jpg" alt="logo" style="width: 100%;"> -->
+<div align="center">
+  <img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backanimation.gif" alt="GIF" autotplay width="700%";">
+  <!--![GIF](https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backanimation.gif)-->
+</div>
+<br/>
 <!-- profile count -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aatib-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aatib-cpu" /> </p>
 
@@ -19,14 +23,15 @@
 <h1 align="center"> 💫 About Me:</h1>
 <div align="center">
 A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. I've also published work on anti-missile systems and ML for medical data — always pushing the edge of innovation. 🚀🔧📡
+<!--
+🔭 Currently working on: **VLSI Archtecture for AI-ML accelarators and Computer Vision Application**-->
 
-🔭 Currently working on: **VLSI Archtecture for AI-ML accelarators and Computer Vision Application**
+<!--🌱 Learning: **Computer Vision, Low Power Design, SoC integration**-->
 
-🌱 Learning: **Computer Vision, Low Power Design, SoC integration**
+<!--💬 Ask me about: **Verilog, SystemVerilog, VLSI Archtecture, AI-ML Algorithm**-->
 
-💬 Ask me about: **Verilog, SystemVerilog, VLSI Archtecture, AI-ML Algorithm**
+<!--⚡ Fun fact: **Driven by curiosity and a knack for problem-solving, I thrive on mastering new technologies and tackling challenging engineering puzzles.**-->
 
-⚡ Fun fact: **Driven by curiosity and a knack for problem-solving, I thrive on mastering new technologies and tackling challenging engineering puzzles.**
 </div>
 
 <br/>
@@ -58,24 +63,34 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
  <hr/>
 
 <!--Languages and Tools Section-->       
+<!--Languages and Tools Section-->       
 <h1 align="center">🔧 Languages and Tools Section:</h1>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
-  
+  <img align="center" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<ul align="left">
-<li>Programming Languages: C/C++, QT, Javascript, Python, Lua, Java </li>
-<li>Hardware Description/Verification Languages: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017) </li>
-<li>Scripting Languages: Shell Scripting, Python, Lua </li>
-<li>Communication Protocols: UART, I2C, SPI, GPIO, AMBA AXI </li>
-<li>Developer Tools: Xilinx Vivado-Vitis, VIM, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS </li>
-<li>Hands-on Experience: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA </li>
-<li>Operatng Systems: Windows 11, Linux Ubuntu 22.04.03 LTS, Linux Mint Cinnamon 6.4.8, Arch linux manjaro </li>
-<li>Others: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator </li>
-</ul>
+  </div>
+<br/><br/>
+<div align="center">
+  
+**Programming Languages**: C/C++, QT, Javascript, Python, Lua, Java
 
+**Hardware Description/Verification Languages**: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017)
+
+**Scripting Languages**: Shell Scripting, Python, Lua
+
+**Communication Protocols**: UART, I2C, SPI, GPIO, AMBA AXI
+
+**Developer Tools**: Xilinx Vivado-Vitis, VIM, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS
+
+**Hands-on Experience**: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA
+
+**Operatng Systems**: Windows 11, Linux Ubuntu 22.04.03 LTS, Linux Mint Cinnamon 6.4.8, Arch linux manjaro
+
+**Others**: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator
+</div>
 <br/>
  <hr/>
 
