@@ -107,7 +107,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
   <a href="https://www.linkedin.com/in/aatib-mohammad-654201140/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  
+</div>
 <br/>
  <!-- 
  <hr/>
@@ -118,32 +118,33 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <hr/>
 
 <!-- GitHub stats -->
-<!--# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Aatib-cpu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aatib-cpu&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatib-cpu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <h1 align="center"> 📊 GitHub Stats: </h1>
 <br>
 <div align=center>
-  <img width=400 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aatib-cpu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=400 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aatib-cpu&count_private=true&theme=blue-green&border_radius=10" alt="streak stats"/>
 </div>
 <br/>
 
 <br>
 <div align=center>
-  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=aatib-cpu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=aatib-cpu&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 <br/>
 
 <br>
 <div align=center>
-  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aatib-cpu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aatib-cpu&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 
 <!-- GitHub Trophies -->
+<div align="center">
+  
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Aatib-cpu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-trophies.vercel.app/?username=Aatib-cpu&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 <br/>
 
@@ -151,7 +152,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <br/>
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=aatib-cpu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aatib-cpu&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 <br/>
 
 </div>
