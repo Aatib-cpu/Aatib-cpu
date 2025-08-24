@@ -59,32 +59,22 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 <!--Languages and Tools Section-->       
 <h1 align="center">🔧 Languages and Tools Section:</h1>
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-  </div>
-<br/><br/>
-<div align="center">
+  <img align="right" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
   
-**Programming Languages**: C/C++, QT, Javascript, Python, Lua, Java
-
-**Hardware Description/Verification Languages**: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017)
-
-**Scripting Languages**: Shell Scripting, Python, Lua
-
-**Communication Protocols**: UART, I2C, SPI, GPIO, AMBA AXI
-
-**Developer Tools**: Xilinx Vivado-Vitis, VIM, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS
-
-**Hands-on Experience**: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA
-
-**Operatng Systems**: Windows 11, Linux Ubuntu 22.04.03 LTS, Linux Mint Cinnamon 6.4.8, Arch linux manjaro
-
-**Others**: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator
-</div>
+</picture>
+<ul align="left">
+<li>Programming Languages: C/C++, QT, Javascript, Python, Lua, Java </li>
+<li>Hardware Description/Verification Languages: Verilog(IEEE 1364), SystemVerilog(IEEE 1800-2017) </li>
+<li>Scripting Languages: Shell Scripting, Python, Lua </li>
+<li>Communication Protocols: UART, I2C, SPI, GPIO, AMBA AXI </li>
+<li>Developer Tools: Xilinx Vivado-Vitis, VIM, VS Code, Multisim, MATLAB, Keil, Efinix Efinity, iVerilog, GTKWave, SILVAO-TCAD-ATLAS </li>
+<li>Hands-on Experience: Zynq 7000 SoC, FPGA Artix-7, 8086 Microprocessor, 8051 and ARM-7 Microcontroller, Arduino UNO R3, Trion T120 FPGA </li>
+<li>Operatng Systems: Windows 11, Linux Ubuntu 22.04.03 LTS, Linux Mint Cinnamon 6.4.8, Arch linux manjaro </li>
+<li>Others: Obsidian, Excalidraw, Adobe Premiere Pro & Illustrator </li>
+</ul>
 
 <br/>
  <hr/>
@@ -134,8 +124,11 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 
 <!-- GitHub Trophies -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=onedark" />
+    <!--<img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=onedark"/>-->
+  <img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=matrix"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=tokyonight"/> -->
 </p>
+<br/>
 
 <h1 align="center"> 🔝 Top Contributed Repo </h1>
 <br/>
