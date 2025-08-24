@@ -118,6 +118,10 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <hr/>
 
 <!-- GitHub stats -->
+<!--# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Aatib-cpu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aatib-cpu&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatib-cpu&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <h1 align="center"> 📊 GitHub Stats: </h1>
 <br>
 <div align=center>
@@ -138,11 +142,9 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <br/>
 
 <!-- GitHub Trophies -->
-<p align="center">
-    <!--<img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=onedark"/>-->
-  <img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=matrix"/>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=aatib-cpu&theme=tokyonight"/> -->
-</p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Aatib-cpu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <br/>
 
 <h1 align="center"> 🔝 Top Contributed Repo </h1>
