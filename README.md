@@ -22,7 +22,7 @@
 <!-- about me -->
 <h1 align="center"> 💫 About Me:</h1>
 <div align="center">
-A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. I've also published work on anti-missile systems and ML for medical data — always pushing the edge of innovation. 🚀🔧📡
+A passionate VLSI Engineer with a Master's from BITS Pilani. I specialize in RTL design for AI/ML accelerators and CPU architectures, with hands-on experience in FPGA development. From missile telemetry systems at DRDO to accelerating AI on silicon at Vicharak Computers, I blend deep hardware expertise with a future-focused mindset. Always pushing the edge of innovation. 🚀🔧📡
 <!--
 🔭 Currently working on: **VLSI Archtecture for AI-ML accelarators and Computer Vision Application**-->
 
