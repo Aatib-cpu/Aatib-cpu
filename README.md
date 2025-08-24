@@ -6,10 +6,10 @@
 </div>
 <br/>
 <!-- profile count -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aatib-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="aatib-cpu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aatib-cpu&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="aatib-cpu" /> </p>
 
 <!-- hi animation -->
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Aatib+😊;+Welcome+to+my+profile+😄;" />
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=09F70D&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Aatib+😊;+Welcome+to+my+profile+😄;" />
 </h1>
 
 <!--Night Owl image-->
@@ -61,8 +61,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <br/>
 
  <hr/>
-
-<!--Languages and Tools Section-->       
+      
 <!--Languages and Tools Section-->       
 <h1 align="center">🔧 Languages and Tools Section:</h1>
 <div align="center">
@@ -166,11 +165,14 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <br/>
 
 <!--snake animation-->
-<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/github-snake-dark.svg" alt="Snake animation" />
+<div align = "center">
+<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/github-snake-dark.svg" alt="Snake animation" />  
+</div>
+
 <br/>
 <!--<img src="https://raw.githubusercontent.com/aatib-cpu/aatib-cpu/output/ocean.gif" alt="ocean" />-->
 <br/>
 <!--thankyou figlet-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!;+Please+Visit+Again+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=09F70D&width=500&height=70&duration=4000&lines=Thank+you!;+Please+Visit+Again+👋;" />
 </h1>
