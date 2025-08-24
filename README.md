@@ -159,7 +159,7 @@ Minimum frequency obtained is 85.84 MHz with 4897 LUT, 4543 FF and 130 IO
 <!--Contribution Graph-->
 <h1 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h1>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatib-cpu&range=year&bg_color=1a1b26&&color=00ffff&line=00ffff&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatib-cpu&range=year&bg_color=1a1b26&&color=09F70DFF&line=09F70DFF&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 <hr/>
 <br/>
