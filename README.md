@@ -1,13 +1,7 @@
 <!-- top image -->
 <!-- <img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backiee-286745-landscape.jpg" alt="logo" style="width: 100%;"> -->
 <div align="center">
-  
-  ![GIF](https://github.com/Aatib-cpu/Aatib-cpu/blob/main/gpu_animation.gif)
-  
-  <!--<img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/luffy_coding.gif" alt="GIF" autotplay width="400%";">-->
-  
-  <!--<img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backanimation.gif" alt="GIF" autotplay width="700%";">-->
-  <!--![GIF](https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backanimation.gif)-->
+  <img src="https://github.com/Aatib-cpu/Aatib-cpu/blob/main/backanimation.gif" alt="GIF" autotplay width="700%";>
 </div>
 <br/>
 <!-- profile count -->
