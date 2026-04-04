@@ -47,7 +47,7 @@ Designed and integrated custom operators for CNN algorithms, generalizing the ar
 Optimized modular components for specific application needs, ensuring scalability and flexibility. 
 Validated architecture on datasets like MNIST, CIFAR, ImageNet, and COCO.
 
-### [CSIR-CERRI](https://www.galaxeye.space/)
+### [CSIR-CERRI](https://www.ceeri.res.in/)
 **Dissertation** (Feb 2024 - May 2024) | BITS Pilani, Pilani, Rajsthan
 Designed a RISC V (RV-32I ISA) processor for error prone application while handing all Hazards.
 All 37 instruction of R,I,J,S,B,U Format are implemented. All cases of ”Data Dependency” is checked and Forwarding unit is optimized to address all ”Data Hazard”.
